@@ -2,6 +2,7 @@
 
 ##
 - 👨‍🎓 Formado em Administração de Empresas
+- 🌱 Cursando MBA em IA para Negócios
 - 🖥️ Atualmente focado em programação, Data Science e Machine Learning com:
 
 <div display="inline">
